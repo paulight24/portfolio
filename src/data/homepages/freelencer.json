@@ -1,0 +1,398 @@
+{
+    "title": "freelencer-home",
+    "content": [
+        {
+            "id": "freelencer-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Hi, I’m <span>Paul </span><br><span class='span'> A Software Engineer.</span>"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/paul_photo-Medium_Background_Removed.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "https://drive.google.com/file/d/1fxNkCJXiW8MwCwLpxZRCrzs8RYal9YFM/view?usp=gmail",
+                    "content": "Download My CV"
+                },
+                {
+                    "id": 2,
+                    "path": "#contacts",
+                    "content": "Hire Me"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-about",
+            "section": "about-section",
+            "title": "About Me",
+            "texts": [
+                {
+                    "content": "Seasoned Frontend Developer with over a decade of hands-on experience crafting cutting-edge applications using Angular 2+, React, Node JS, Java, SpringBoot and other software. My mission is to harness my extensive expertise and proven skill set to drive exceptional outcomes for my employer. Fueled by a passion for innovation, I bring a wealth of creative insight, problem-solving acumen that aligns seamlessly with strategic business goals."
+                },
+                {
+                    "content": "I have 10+ years of experience with HTML, CSS, Typescript, JavaScript / JS Frameworks. And I can Design Your web application."
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-skill",
+            "section": "skill-section",
+            "title": "About My Skill",
+            "inner": [
+                {
+                    "id": "freelencer-home-skill-top",
+                    "title": "Primary Skills on",
+                    "items": [
+                        {
+                            "id": 1,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-01.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-02.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-03.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-04.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-05.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-06.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-07.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-08.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-09.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-10.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "freelencer-home-skill-right",
+                    "title": "Secondary Skills on",
+                    "items": [
+                        {
+                            "id": 1,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-11.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-12.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-13.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-14.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-15.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-16.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-17.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-18.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-19.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-20.png"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-services",
+            "section": "service-section",
+            "title": "My Services",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Frontend web App Development",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "Senior Software devlopment",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "Technical Lead",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile App Development",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "title": "Fullstack software development",
+                    "path": "#!"
+                },
+                {
+                    "id": 6,
+                    "title": "Database design & development",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-portfolio",
+            "section": "portfolio-section",
+            "title": "My Portfolio",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Sagent CARE",
+                    "category": "Frontend Software Development",
+                    "texts": [
+                        {
+                            "content": "The services provide for design"
+                        },
+                        {
+                            "content": "Sagent CARE™ platform lets you easily manage performing and non-performing loans. Borrowers can self-serve for payments and escrows, go paperless, plus monitor home equity, new offers, and tax matters. And your teams can help real-time, anytime."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.png"
+                        }
+                    ],
+                    "path": "https://sagent.com/products/care/",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Vedus Health",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Mobile app landing design & app maintainance."
+                        },
+                        {
+                            "content": "Vedus Health is your one stop solution to high quality affordable healthcare access via a secure telehealth platform. Our primary goal is to provide secured online paperless Personal Health Records (PHR), which will aid in stress free maintenance of your personal and family health history."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.png"
+                        }
+                    ],
+                    "path": "https://vedushealth.com/",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Vanguard Retirement",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Fullstack App development & database design"
+                        },
+                        {
+                            "content": "At Vanguard you're more than just an investor, you're an owner."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.png"
+                        }
+                    ],
+                    "path": "https://ownyourfuture.vanguard.com/home/home/sso/unknown",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "LoanServ",
+                    "category": "Software Consulting",
+                    "texts": [
+                        {
+                            "content": "The services provide for technical lead"
+                        },
+                        {
+                            "content": "LoanServ Platform powers servicing for all mortgage and consumer loan types with scale compliance, reporting, real-time payments, and happy borrowers. Exceed investor, auditor, regulator, borrower expectations, and lower costs with the industry's most modern system of record."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "https://sagent.com/products/loanserv/",
+                    "likeCount": 360
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-blog",
+            "section": "blog-section",
+            "title": "My Blog"
+        },
+        {
+            "id": "freelencer-home-testimonial",
+            "section": "testimonial-section",
+            "title": "Testimonial",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "@Sryavya",
+                    "designation": "Senior Backend Software Engineer",
+                    "description": "Paul's strength in comprehending and effectively conveying ideas and requirements, then translating them into well-crafted designs, is truly an asset. His leadership skills further enhance the team's capabilities. With his ability to swiftly grasp and communicate complex concepts, Paul is an invaluable member of the team, driving projects forward with remarkable speed and efficiency. 💡🌟",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@Mahesh",
+                    "designation": "Technical Lead",
+                    "description": "Paul is a valuable asset to Vedus. His ability to quickly learn new technologies, meet project deadlines, and effectively communicate complex concepts is a fantastic combination. With his leadership abilities and commitment to efficiency, Paul is sure to accelerate the design and development process. Keep up the great work, Paul! 💪🚀",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "@Timothy",
+                    "designation": "Senior Devops Engineer",
+                    "description": "His intelligence, creativity, and wealth of innovative ideas make him a standout Tech Lead. It's always a pleasure to collaborate with individuals who bring such a positive and dynamic energy to the team. With Paul's guidance, projects are sure to flourish. 💡🚀",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-1.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
