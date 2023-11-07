@@ -1,15 +1,15 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
+        siteUrl: "https://paul-portfolio7.netlify.app",
         title: "Paul - Personal Portfolio",
         description: "Awesome development skills",
         author: "Paul",
         siteLanguage: "en",
         image: "banner.jpg",
         titleTemplate: "Portfolio",
-        twitterUsername: "@rainbowit",
+        twitterUsername: "@paul",
         getform_url:
-            "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
+            "https://getform.io/f/94b5a80c-5f7f-4bcd-8a43-34e852680d3a",
         socials: [
             {
                 id: 1,
@@ -91,7 +91,7 @@ module.exports = {
                 display: "standalone",
                 scope: "/",
                 start_url: "/",
-                icon: "src/assets/images/favicon.png",
+                icon: "src/assets/images/favicon.ico",
             },
         },
     ],

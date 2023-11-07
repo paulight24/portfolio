@@ -23,7 +23,7 @@
             "buttons": [
                 {
                     "id": 1,
-                    "path": "https://drive.google.com/file/d/1fxNkCJXiW8MwCwLpxZRCrzs8RYal9YFM/view?usp=gmail",
+                    "path": "https://drive.google.com/drive/folders/16nZ92LnExas8VAMaUs4BJeOv4ceOGwgt?usp=sharing",
                     "content": "Download My CV"
                 },
                 {
@@ -42,7 +42,7 @@
                     "content": "Seasoned Frontend Developer with over a decade of hands-on experience crafting cutting-edge applications using Angular 2+, React, Node JS, Java, SpringBoot and other software. My mission is to harness my extensive expertise and proven skill set to drive exceptional outcomes for my employer. Fueled by a passion for innovation, I bring a wealth of creative insight, problem-solving acumen that aligns seamlessly with strategic business goals."
                 },
                 {
-                    "content": "I have 10+ years of experience with HTML, CSS, Typescript, JavaScript / JS Frameworks. And I can Design Your web application."
+                    "content": "I have 11+ years of experience with HTML, CSS, Typescript, JavaScript / JS Frameworks. And I can Design Your web application."
                 }
             ]
         },
@@ -361,12 +361,12 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "@Sryavya",
-                    "designation": "Senior Backend Software Engineer",
-                    "description": "Paul's strength in comprehending and effectively conveying ideas and requirements, then translating them into well-crafted designs, is truly an asset. His leadership skills further enhance the team's capabilities. With his ability to swiftly grasp and communicate complex concepts, Paul is an invaluable member of the team, driving projects forward with remarkable speed and efficiency. 💡🌟",
+                    "title": "@Thomas",
+                    "designation": "Manager",
+                    "description": "Congratulations on your esteemed dev tech awards, and for all the value add to our team at Vanguard.",
                     "images": [
                         {
-                            "src": "../images/client/testimonial-2.png"
+                            "src": "../images/icons/unknown-user.png"
                         }
                     ]
                 },
@@ -382,9 +382,20 @@
                     ]
                 },
                 {
+                    "id": 4,
+                    "title": "@Sryavya",
+                    "designation": "Senior Backend Software Engineer",
+                    "description": "Paul's strength in comprehending and effectively conveying ideas and requirements, then translating them into well-crafted designs, is truly an asset. His leadership skills further enhance the team's capabilities at Vedus. With his ability to swiftly grasp and communicate complex concepts, Paul is an invaluable member of the team, driving projects forward with remarkable speed and efficiency. 💡🌟",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.png"
+                        }
+                    ]
+                },
+                {
                     "id": 3,
                     "title": "@Timothy",
-                    "designation": "Senior Devops Engineer",
+                    "designation": "Devops Engineer",
                     "description": "His intelligence, creativity, and wealth of innovative ideas make him a standout Tech Lead. It's always a pleasure to collaborate with individuals who bring such a positive and dynamic energy to the team. With Paul's guidance, projects are sure to flourish. 💡🚀",
                     "images": [
                         {
